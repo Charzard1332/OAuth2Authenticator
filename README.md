@@ -22,6 +22,7 @@
 ```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/OAuth2Authenticator.git
 cd OAuth2Authenticator
+```
 
 ### 🔹 **2️⃣ Change Client ID And Secret**
 OAuthHelper.cs
